@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Facebook.Unity;
+using UnityEngine;
 using UnityEngine.Events;
 
 public class FormDialog : MonoBehaviour
